@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "31564851619e49c7ae3475a560f91e4c",
+    "Name": "2K - Scale 100%",
+    "DeviceName": "\\\\.\\DISPLAY1",
+    "Width": 2560,
+    "Height": 1440,
+    "RefreshRate": 0,
+    "ScalePercent": 100
+  },
+  {
+    "Id": "6f64471c6dcc4157b1e3c61e6106abd5",
+    "Name": "Full HD - Scale 100%",
+    "DeviceName": "\\\\.\\DISPLAY1",
+    "Width": 1920,
+    "Height": 1080,
+    "RefreshRate": 0,
+    "ScalePercent": 100
+  },
+  {
+    "Id": "c0974378822848a2b0ee91599a64186d",
+    "Name": "2K - Scale 125%",
+    "DeviceName": "\\\\.\\DISPLAY1",
+    "Width": 2560,
+    "Height": 1440,
+    "RefreshRate": 0,
+    "ScalePercent": 125
+  },
+  {
+    "Id": "a3fc94b200ad428a8338f62ce93055a3",
+    "Name": "HD+ - Scale 100%",
+    "DeviceName": "\\\\.\\DISPLAY1",
+    "Width": 1600,
+    "Height": 900,
+    "RefreshRate": 0,
+    "ScalePercent": 100
+  }
+]
